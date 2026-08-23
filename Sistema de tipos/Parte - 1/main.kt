@@ -72,7 +72,7 @@ fun main() {
 
     // 6. LISTA MUTAVEL
 
-    val listaMutavel = mutableListO(10, 20, 30)
+    val listaMutavel = mutableListOf(10, 20, 30)
 
     println("Antes: $listaMutavel")
 
